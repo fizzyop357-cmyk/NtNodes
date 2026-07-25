@@ -1,0 +1,16 @@
+{
+  "name": "mc-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for a Minecraft server community — moderation, tickets, embeds, auto role, welcome/leave, and live server status.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "minecraft-server-util": "^5.5.0"
+  }
+}

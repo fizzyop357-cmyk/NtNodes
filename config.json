@@ -1,0 +1,20 @@
+{
+  "botName": "NtNodes | Premium",
+  "logoPath": "./assets/logo.png",
+  "welcomeChannelId": "PUT_WELCOME_CHANNEL_ID_HERE",
+  "leaveChannelId": "PUT_LEAVE_CHANNEL_ID_HERE",
+  "autoRoleId": "PUT_AUTO_ROLE_ID_HERE",
+  "mutedRoleId": "PUT_MUTED_ROLE_ID_HERE",
+  "ticketCategoryId": "PUT_TICKET_CATEGORY_ID_HERE",
+  "ticketLogChannelId": "PUT_TICKET_LOG_CHANNEL_ID_HERE",
+  "modLogChannelId": "PUT_MOD_LOG_CHANNEL_ID_HERE",
+  "minecraftServerIp": "play.yourserver.net",
+  "minecraftServerPort": 25565,
+  "embedColor": "#2ECC71",
+  "storeUrl": "https://store.yourserver.net",
+  "plans": [
+    { "name": "VIP", "price": "$4.99/mo", "perks": ["Colored chat tag", "1 extra homes", "/kit vip"] },
+    { "name": "MVP", "price": "$9.99/mo", "perks": ["Everything in VIP", "3 extra homes", "/fly in lobby", "/kit mvp"] },
+    { "name": "LEGEND", "price": "$19.99/mo", "perks": ["Everything in MVP", "Unlimited homes", "Custom join message", "/kit legend"] }
+  ]
+}
