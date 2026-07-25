@@ -1,6 +1,6 @@
 {
   "botName": "NtNodes | Premium",
-  "logoPath": "./assets/logo.png",
+  "logoPath": "logo.png",
   "welcomeChannelId": "PUT_WELCOME_CHANNEL_ID_HERE",
   "leaveChannelId": "PUT_LEAVE_CHANNEL_ID_HERE",
   "autoRoleId": "PUT_AUTO_ROLE_ID_HERE",
